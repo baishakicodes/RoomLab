@@ -7,6 +7,7 @@ public class LinkenshireEstate {
     private Room[][] Estate;
     private int width;
     public LinkenshireEstate(Room[][] Estate){
+
         this.Estate= Estate;
     }
     public LinkenshireEstate(int width){
